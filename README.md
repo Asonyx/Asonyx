@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Asonyx, or by my real name Gael.
+
+I'm a french developper currently studying informatic.
+
+I'm passionate about AI stuff and game developpement, I really enjoy making mods for games.
+
+I don't know what to say else so if you have any question, feel free to contact me.
+
+To contact me, DM me on discord : **asonyx**
 
 <!--
 **Asonyx/Asonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
